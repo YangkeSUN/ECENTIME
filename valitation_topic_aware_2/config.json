@@ -1,0 +1,16 @@
+{
+    "input": {
+        "genres":"input/genres.json.gz",
+        "cleaning_ratings_timed":"input/cleaning_ratings_timed.gz",
+        "useful_edges_interaction_info":"input/useful_edges_interaction_info.json.gz",
+        "links_after_2wash":"input/links_after_2wash.txt.gz",
+        "ratings_after_2wash":"ratings_after_2wash.txt.gz",
+        "ratings_after_3wash":"ratings_after_3wash.txt.gz",
+        "prob_nodelta":"prob_nodelta.json"
+    },
+    "nb_k":6,
+    "alpha": 0.5,
+    "m":10,
+    "alpha":0.5,
+    "beta":0.1
+}
